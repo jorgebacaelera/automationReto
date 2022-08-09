@@ -1,0 +1,43 @@
+package com.test.toolbox.Page;
+
+public class ElementsPage  {
+    public static String buttonLogin="login";
+    public static String inputEmail="email_create";
+    public static String buttonCreate="SubmitCreate";
+    public static String id_gender1="id_gender1";
+    public static String id_customer_firstname="customer_firstname";
+    public static String id_customer_lastname="customer_lastname";
+    public static String idpasswd="passwd";
+    public static String id_days="days";
+    public static String id_months="months";
+    public static String id_years="years";
+    public static String id_company="company";
+    public static String id_address1="address1";
+    public static String id_address2="address2";
+    public static String id_city="city";
+    public static String id_state="id_state";
+    public static String id_postcode="postcode";
+    public static String id_other="other";
+    public static String id_phone="phone";
+    public static String id_phone_mobile="phone_mobile";
+    public static String id_alias="alias";
+    public static String buttonRegistryConfirm= "submitAccount";
+    public static String verifyAccount="account";
+    public static String firstProduct="//*[@id=\"center_column\"]/ul/li[2]/div/div[2]/h5/a";
+    public static String titleProduct="//*[@id=\"center_column\"]/div/div/div[3]/h1";
+    public static String priceProduct="our_price_display";
+    public static String buttonAddCart="//*[@id=\"add_to_cart\"]/button";
+    public static String buttonContinueAdd="//*[@id=\"layer_cart\"]/div[1]/div[2]/div[4]/span";
+    public static String selectCategory3="//*[@id=\"block_top_menu\"]/ul/li[3]/a";
+    public static String product2="//*[@id=\"center_column\"]/ul/li/div/div[2]/h5/a";
+    public static String getTitleProduct2="//*[@id=\"center_column\"]/div/div/div[3]/h1";
+    public static String getPriceProduct2="our_price_display";
+    public static String buttonAddtoCardID="add_to_cart";
+    public static String confirmCart="//*[@id=\"layer_cart\"]/div[1]/div[2]/div[4]/a/span";
+    public static String continueBuy="//*[@id=\"center_column\"]/p[2]/a[1]";
+    public static String address_company="address_company";
+    public static String address_phone_mobile="address_phone_mobile";
+    public static String buttonConfirmed="//*[@id=\"center_column\"]/form/p/button";
+    public static String checkboxConfirmed="cgv";
+    public static String confirmPayment="//*[@id=\"form\"]/p/button";
+}
